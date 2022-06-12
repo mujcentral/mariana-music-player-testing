@@ -1,0 +1,22 @@
+first_boot = false
+isdev = true
+
+[about]
+author = "vivojay"
+date = "19-01-2021"
+title = "Mariana CLI Music Player"
+
+[ver]
+maj = 0
+min = 7
+rel = 0
+
+[system_settings]
+enable_best_quality_downloads = 1
+enforce_os_requirement = true
+max_wait_limit_to_get_song_length = 15
+supported_file_types = [ ".wav", ".mp3", ".mp4", ".mka", ".mkv", ".mpeg", ".wma", ".amr", ".flac", ".alac", ".ogg", ".webm", ".m4a"]
+mariana_dl_dir = "MarianaPlayer"
+brave_paths = [ "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe", "C:\\Program Files (x86)\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",]
+max_recents_size = 10000000
+supported_python_versions = [ [ 3, 10,], [ 3, 9,], [ 3, 8,], [ 3, 7,],]

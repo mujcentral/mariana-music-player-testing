@@ -1,0 +1,57 @@
+display items count:
+  general:
+    fallback: 10
+    maximum: 100
+  youtube-search results:
+    maximum: 45
+color palette:
+  playing : yellow
+  prim : orange_1
+  sec : aquamarine_1b
+  tert : magenta_3c
+  meta info : grey_50
+  error : red
+  exit prompt : light_red
+  exit statement : red
+  oth : light_slate_blue
+  prompt background 1: gold_3b
+  prompt foreground 1: black
+  prompt background 2: green_1
+  prompt foreground 2: black
+  prompt background 3: blue_violet
+  prompt foreground 3: white
+  prompt background 4: dark_slate_gray_2
+  prompt foreground 4: black
+  prompt background 5: blue_3a
+  prompt foreground 5: white
+  prompt not playing background: dark_red_1
+  prompt not playing foreground: white
+  user commands: dark_turquoise
+download:
+  downloads folder: E:/VIVAN/MUSIC/dl-songs #~/Music
+  make a separate mariana folder within "downloads folder": true
+  quality:
+    audio only: 1
+    video with audio:
+      audio: 1
+      video: 1
+  type: video
+include music folder in library: true
+loglevel: 3
+show about: true
+show banner: true
+visible: true
+editor path: C:\WINDOWS\system32\notepad.exe
+get related songs: true # Coming later
+lyrics:
+  use solid color bg: false
+  webview wallpaper:
+    wallpaper folder: # If left empty, defaults to ../res/lyrics-wallpapers
+    wallpaper name or number: 04 # If left empty, defaults to DEFAULT.jpg
+  solid color bg:
+    color: '#121212'
+vlc path: # Mariana reverts to default download location of vlc.exe if not specified
+
+prefs:
+  use last cached volume: false
+  prompt style:
