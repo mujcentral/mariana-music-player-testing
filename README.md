@@ -196,7 +196,11 @@ Run `main.py` from command line (with desired arguments, for more details, \*\*\
 
 ## Mariana Player in Action
 
+### v0.4.0
 ![image](https://user-images.githubusercontent.com/67545205/147845057-eab483b2-4e8c-43ce-9f0d-349d2e655437.png)
+
+### v0.7.0
+![image](https://user-images.githubusercontent.com/101711224/173222003-d0c50e26-60fd-4fa5-815d-39b29b3deb35.png)
 
 <hr>
 
