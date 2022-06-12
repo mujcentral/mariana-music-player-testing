@@ -1,4 +1,6 @@
-# Mariana Music Player (v0.7.0 dev-4)
+# Mariana Music Player (v0.7.0)
+
+## This is a test repo, the main repo is hosted [here](https://github.com/Vivojay/mariana-music-player/) but has an older version of this player
 
 ## About
 ### Made by [@vivojay <img src="https://avatars.githubusercontent.com/u/67545205?v=4" width="26px">](https://github.com/vivojay)
