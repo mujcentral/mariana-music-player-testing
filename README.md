@@ -1,6 +1,8 @@
 # Mariana Music Player (v0.7.0 dev-4)
 
 ## About
+### Made by [@vivojay <img src="https://avatars.githubusercontent.com/u/67545205?v=4" width="26px">](https://github.com/vivojay)
+
 Feature rich command-line music player for Windows OS (Tested on Win10 only\*).  
 Can play songs of [supported file types](https://github.com/Vivojay/mariana-music-player/blob/dev/settings/system.toml#L18) and perform basic music control operations  
 `.wav` formats don't support seeking
